@@ -1,0 +1,23 @@
+/*Exercice1*/
+h1{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    text-shadow: 10px;
+    text-decoration:underline;
+    text-shadow:10px;
+}
+h2{
+    color: green;
+}
+section h2{
+    color: black;
+}
+h2 +p{
+    color: blue;
+    font-style: italic;
+    
+}
+h1+img+img{
+    border-radius: 40%;
+}
+

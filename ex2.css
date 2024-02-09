@@ -1,0 +1,10 @@
+div{
+    height: 280px;
+    width: 280px;
+    background-color: blue;
+}
+@min-width(670px){
+    div{
+        background-color: blueviolet;
+    }
+    }
